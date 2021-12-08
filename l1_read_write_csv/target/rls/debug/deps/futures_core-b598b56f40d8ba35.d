@@ -1,0 +1,11 @@
+/Users/healer/Documents/RustTutorial/rust_flow/rust_tutorial/target/rls/debug/deps/futures_core-b598b56f40d8ba35.rmeta: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs
+
+/Users/healer/Documents/RustTutorial/rust_flow/rust_tutorial/target/rls/debug/deps/futures_core-b598b56f40d8ba35.d: /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs /Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs
+
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/lib.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/future.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/stream.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/mod.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/poll.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/mod.rs:
+/Users/healer/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.18/src/task/__internal/atomic_waker.rs:
